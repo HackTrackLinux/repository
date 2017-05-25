@@ -1,0 +1,8 @@
+Origin: hacktrack
+Label: hacktrack
+Suite: revolution
+Codename: revolution
+Architectures: i386 amd64
+Components: main contrib non-free
+Description: Official Repository for <<Hack|Track Linux
+SignWith: 9435AA90
