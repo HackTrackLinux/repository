@@ -1,7 +1,7 @@
 Origin: hacktrack
 Label: hacktrack
-Suite: revolution
-Codename: revolution
+Suite: rolling
+Codename: rolling
 Architectures: i386 amd64
 Components: main contrib non-free
 Description: Official Repository for <<Hack|Track Linux
